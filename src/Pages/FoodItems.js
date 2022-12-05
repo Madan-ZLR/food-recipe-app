@@ -13,8 +13,6 @@ const FoodItems = () => {
   const getFoodItems = () => {
     getItems(search);
     console.log("morningg");
-    console.log("Ritesh");
-    console.log("this line added by madan");
   };
   return (
     <>
