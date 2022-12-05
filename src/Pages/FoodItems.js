@@ -12,7 +12,7 @@ const FoodItems = () => {
   const [search, setSearch] = useState("");
   const getFoodItems = () => {
     getItems(search);
-    console.log("hi to all");
+    console.log("morningg");
   };
   return (
     <>
