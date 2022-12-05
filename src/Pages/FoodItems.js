@@ -12,6 +12,7 @@ const FoodItems = () => {
   const [search, setSearch] = useState("");
   const getFoodItems = () => {
     getItems(search);
+    console.log("morning");
   };
   return (
     <>
